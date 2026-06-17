@@ -164,9 +164,5 @@ This project demonstrates how Machine Learning can be applied to estimate used c
 
 ---
 
-## Author
-
-**Rithiga**
-
 Machine Learning Project using Python and Scikit-learn.
 
